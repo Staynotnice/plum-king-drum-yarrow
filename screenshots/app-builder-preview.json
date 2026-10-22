@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Saltwatch",
+      "hasCanvas": true,
+      "bodyTextLen": 243,
+      "bodyTextHash": "0320b238b75c2c3076dcc512eba0710d7c57d24e56c4e92759a7d4abca3b236b",
+      "bodyTextPrefix": "NIGHT SHIFT Saltwatch The floodgates failed at dusk. Drifters ca",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Saltwatch",
+      "hasCanvas": true,
+      "bodyTextLen": 243,
+      "bodyTextHash": "0320b238b75c2c3076dcc512eba0710d7c57d24e56c4e92759a7d4abca3b236b",
+      "bodyTextPrefix": "NIGHT SHIFT Saltwatch The floodgates failed at dusk. Drifters ca",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
